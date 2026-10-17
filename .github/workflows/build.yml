@@ -53,6 +53,6 @@ jobs:
         with:
           name: jluNetworkLogin
           path: |
-            immortalwrt-sdk-*/bin/packages/**/jluNetworkLogin*.apk
-            immortalwrt-sdk-*/bin/packages/**/luci-app-jluNetworkLogin*.apk
-            immortalwrt-sdk-*/bin/packages/**/luci-i18n-jluNetworkLogin*.apk
+            immortalwrt-sdk-*/bin/packages/**/jluNetworkLogin*.ipk
+            immortalwrt-sdk-*/bin/packages/**/luci-app-jluNetworkLogin*.ipk
+            immortalwrt-sdk-*/bin/packages/**/luci-i18n-jluNetworkLogin*.ipk
