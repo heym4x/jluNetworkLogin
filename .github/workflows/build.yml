@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  SDK_VERSION: "25.12.2"
+  SDK_VERSION: "24.10.6"
   TARGET: "ramips"
   SUBTARGET: "mt7621"
   GCC: "14.3.0"
