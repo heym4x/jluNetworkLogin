@@ -9,7 +9,7 @@ env:
   SDK_VERSION: "24.10-SNAPSHOT"
   TARGET: "ramips"
   SUBTARGET: "mt7621"
-  GCC: "14.3.0"
+  GCC: "13.3.0"
 
 jobs:
   build:
